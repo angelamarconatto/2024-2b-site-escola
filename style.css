@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.cabacalho{
+    background-color: #231a5b;
+    color: white;
+    display: flex;
+    align-items: center;
+}
